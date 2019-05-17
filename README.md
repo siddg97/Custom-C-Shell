@@ -1,7 +1,8 @@
 # LinuxCustomShell-C
 
-__This repository was initially an assignent that I was assigned while studying an Operating Systems Course in University. The assignment was to create a simple linux shell as per the assignment instrutions which requiered me to implement some of my own builtin CL commands for Linux using fork() and exec().__
+__This repository was initially an assignent that I was assigned while studying an Operating Systems Course in university. The assignment was to create a simple linux shell as per the assignment instrutions which requiered me to implement some of my own builtin CL commands for Linux using fork() and exec().__
 
+#### I am still in the process of developping new commands for my shell and am open to suggestions and ideas at sg8797@gmail.com. I plan to add many more new commands through the course of time.
 
 ## Programming Language
 
