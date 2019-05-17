@@ -4,11 +4,12 @@ __This repository was initially an assignent that I was assigned while studying 
 
 
 ## Programming Language
-	### C
+
+> ### C
 	
 	
-## Operating System :
-	### Ubuntu 18.04 LTS
+## Operating System 
+>  ### Ubuntu 18.04 LTS
 	
 	
 ## Setup:
